@@ -1,5 +1,5 @@
 asgiref==3.4.1
-black==21.10
+black==22.1.0
 click==8.0.3
 colorama==0.4.6
 Django==5.0
