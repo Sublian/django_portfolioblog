@@ -3,6 +3,7 @@ black==22.1.0
 click==8.0.3
 colorama==0.4.6
 Django==5.0
+dj_database_url==2.1.0
 gunicorn==21.0.0
 mypy-extensions==0.4.3
 pathspec==0.9.0
